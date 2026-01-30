@@ -17,8 +17,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Roam Together - Group Travel Voting",
-  description: "Discover and vote on places with your travel group",
+  title: "Pickl - Discover Amazing Places Together",
+  description: "Plan your perfect trip with friends. Vote on places, discover hidden gems, and let AI curate experiences tailored to your group's taste.",
   generator: "v0.app",
 };
 
