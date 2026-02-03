@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "pickl.ai"
+		},
+		{
+			"path": "pickl-ai-backend"
+		}
+	],
+	"settings": {},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}
