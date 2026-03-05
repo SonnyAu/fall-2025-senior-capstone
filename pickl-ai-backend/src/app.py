@@ -1,6 +1,6 @@
 import uvicorn
 from fastapi import FastAPI
-from .routers.v0.session import router as V0Session
+from routers.v0.session import router as V0Session
 
 app = FastAPI()
 
